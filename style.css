@@ -49,6 +49,7 @@ body * {
 
 #profile img {
   height: 112px;
+  border-radius: 50%;
 }
 
 #profile p {
